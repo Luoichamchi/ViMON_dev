@@ -12,7 +12,7 @@ python -m venv .venv
 ### 2. Cài đặt dependencies
 
 ```bash
-pip install -r requirements.txt
+cd
 ```
 
 ### 3. Tạo file .env
